@@ -1,0 +1,16 @@
+# Environment
+SESSION_TIMEOUT_IN_MINUTES: 1
+LOG_FILE_PATH: ./target/log/tatoc_app.log
+APP_MODE: debug
+SQLITE_DBFILE: ./data/camping.db
+
+# Defaults
+SHARED_SECRET: Rom@n0v
+
+# Database
+mysql_server: localhost
+mysql_admin: tatocadmin
+mysql_admin_password: tatoc~admin
+mysql_user_server: 10.0.1.86
+mysql_user: tatocuser
+mysql_user_password: tatoc01

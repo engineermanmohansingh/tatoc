@@ -1,0 +1,50 @@
+body {
+  margin: 0px;
+  pading: 0px;
+  color: #333333;
+  background-color: #dddddd;
+  font-size: 1em;
+  font-family: monospace, "Courier New", Courier; }
+
+.wrapper {
+  margin: 0px;
+  padding: 0px;
+  color: #333333;
+  background-color: #eeeeee; }
+  .wrapper .header {
+    padding: 5px;
+    color: #cccccc;
+    background-color: #666666;
+    text-shadow: 1px 1px #111111; }
+    .wrapper .header .title {
+      font-size: 2em;
+      font-weight: bold; }
+    .wrapper .header .subtext {
+      font-size: 0.8em; }
+  .wrapper .footer {
+    background-color: #dddddd;
+    border-top: 1px solid #bbbbbb;
+    font-size: 0.8em;
+    padding: 5px;
+    text-shadow: 1px 1px white; }
+  .wrapper .page {
+    padding: 10px;
+    padding-top: 20px; }
+    .wrapper .page h1 {
+      font-size: 1.4em;
+      padding: 0px;
+      margin: 0px; }
+    .wrapper .page .courses {
+      font-size: 1em;
+      padding: 0px;
+      margin: 0px; }
+    .wrapper .page .error {
+      color: red; }
+    .wrapper .page .finish {
+      color: mediumseagreen; }
+
+a {
+  color: royalblue;
+  text-decoration: none; }
+  a:hover {
+    border-bottom: 1px solid royalblue; }

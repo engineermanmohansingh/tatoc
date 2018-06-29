@@ -1,0 +1,40 @@
+div.violet, div.indigo, div.blue, div.green, div.yellow, div.orange, div.red, div.white {
+    width: 100px;
+    height:100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 1.4em;
+    font-weight: bold;
+    text-shadow: 0px 0px;
+    color: black;
+}
+
+div#answer {
+    float: left;
+}
+div.white {
+    background-color: white;
+}
+
+div.violet {
+    background-color: violet;
+}
+div.indigo {
+    background-color: indigo;
+}
+div.blue {
+    background-color: blue;
+}
+div.green {
+    background-color: green;
+}
+div.yellow {
+    background-color: yellow;
+}
+div.orange {
+    background-color: orange;
+}
+div.red {
+    background-color: red;
+}

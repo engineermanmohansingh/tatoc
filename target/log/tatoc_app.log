@@ -1,0 +1,146 @@
+# Logfile created on 2018-06-29 03:55:38 +0530 by logger.rb/31641
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicFrameDungeonChild, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicFrameDungeonChild, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicFrameDungeonChild, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicFrameDungeonChild, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicFrameDungeonChild, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicDrag, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicWindows, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicWindowsPopup, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicCookie, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocError, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocIndex, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasic, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicGridGate, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocError, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicFrameDungeon, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicFrameDungeonMain, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicFrameDungeonChild, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocError, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicFrameDungeonChild, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicDrag, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocError, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicWindows, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocError, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicWindowsPopup, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocError, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicWindowsPopup, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicCookie, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocError, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocEnd, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocIndex, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocAdvanced, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocAdvancedHoverMenu, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocAdvancedRest, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocAdvancedRestServiceTokenN, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocIndex, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocAdvanced, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocAdvancedHoverMenu, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocAdvancedQueryGate, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocAdvancedQueryGate, Method: POST
+Session: {}
+Controller: Tatoc::Controllers::TatocAdvancedVideoPlayer, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocAdvancedRest, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocAdvancedRestServiceTokenN, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocIndex, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasic, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicGridGate, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicFrameDungeon, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicFrameDungeonMain, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicFrameDungeonChild, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicFrameDungeonChild, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicFrameDungeonChild, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicFrameDungeonChild, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicFrameDungeonChild, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicFrameDungeonChild, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicFrameDungeonChild, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicDrag, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicWindows, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicWindowsPopup, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocBasicCookie, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocEnd, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocIndex, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocAdvanced, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocAdvancedHoverMenu, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocIndex, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocAdvanced, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocAdvancedHoverMenu, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocAdvancedQueryGate, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocAdvancedQueryGate, Method: POST
+Session: {}
+Controller: Tatoc::Controllers::TatocAdvancedVideoPlayer, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocAdvancedRest, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocAdvancedRestServiceTokenN, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocAdvancedRestServiceCheckRegisterN, Method: GET
+Session: {}
+Controller: Tatoc::Controllers::TatocError, Method: GET
+Session: {}
